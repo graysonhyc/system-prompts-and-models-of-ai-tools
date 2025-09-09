@@ -1,36 +1,5 @@
 # **System Prompts and Models of AI Tools**  
 
----
-<a href="https://discord.gg/NwzrWErdMU" target="_blank">
-  <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
-</a>
-
-> **Join the Conversation:** New system instructions are released on Discord **before** they appear in this repository. Get early access and discuss them in real time.
-
-
-<a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
-📜 Over **20,000+ lines** of insights into their structure and functionality.  
-
-[![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-
----
-
-## ❤️ Support the Project
-
-If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project. Your contribution helps keep this resource updated and allows for further exploration.
-
-You can show your support via:
-
-- **PayPal:** `lucknitelol@proton.me`
-- **Cryptocurrency:**  
-  - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`  
-  - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`  
-  - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
-- **Patreon:** https://patreon.com/lucknite
-
-🙏 Thank you for your support!
 
 
 ---
